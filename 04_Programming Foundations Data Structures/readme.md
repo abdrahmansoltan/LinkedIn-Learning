@@ -23,4 +23,4 @@
 <br>
 [Preview Certificate](https://drive.google.com/file/d/1fEadqE5wOEgwNy9vD5PJMQvARKs2Ej7L/view?usp=sharing)
 <br>
-[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/599bee4e138b7d1da251806ffa5ffcd956bf2bc15dabef64f6ebcf8b2c50fa59?trk=share_certificate #datastructures.)
+[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/599bee4e138b7d1da251806ffa5ffcd956bf2bc15dabef64f6ebcf8b2c50fa59?trk=share_certificate%20#datastructures.)
