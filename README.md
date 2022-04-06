@@ -17,7 +17,7 @@ courses that I've taken from LinkedIn Learning
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 4m` - 02 - [Programming Foundations: Beyond the Fundamentals](./02_Programming%20Foundations%20Beyond%20the%20Fundamentals/)
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 40m` - 03 - [Programming Foundations: Object-Oriented Design](./03_Programming%20Foundations%20Object-Oriented%20Design/)
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 20m` - 04 - [Programming Foundations: Data Structures](./04_Programming%20Foundations%20Data%20Structures/)
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 45m` - 05 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
+- [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 45m` - 05 - [Programming Foundations: Algorithms](./05_Programming%20Foundations%20Algorithms/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 44m` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 25m` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 14m` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
