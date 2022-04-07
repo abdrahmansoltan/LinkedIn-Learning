@@ -9,7 +9,7 @@ courses that I've taken from LinkedIn Learning
 
 ---
 
-![100%](https://progress-bar.dev/10/?title=Done)
+![100%](https://progress-bar.dev/60/?title=Done)
 <br>
 <br>
 
@@ -18,8 +18,8 @@ courses that I've taken from LinkedIn Learning
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 40m` - 03 - [Programming Foundations: Object-Oriented Design](./03_Programming%20Foundations%20Object-Oriented%20Design/)
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 20m` - 04 - [Programming Foundations: Data Structures](./04_Programming%20Foundations%20Data%20Structures/)
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 45m` - 05 - [Programming Foundations: Algorithms](./05_Programming%20Foundations%20Algorithms/)
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 44m` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
+- [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 44m` - 06 - [Programming Foundations: Design Patterns](./06_Programming%20Foundations%20Design%20Patterns/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 25m` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 1h 14m` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
 - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 53m` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 55m` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
+- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `done` ` 2h 11m` - 10 - [Learning GitHub](Linkedin-Learning/Git-Essential-Training-The-Basics/)
